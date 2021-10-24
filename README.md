@@ -30,6 +30,9 @@ Projeto individual...
 
 - Usar linguagem Java 
 
+## 🚀 Exemplo de SVG gerado a partir da execução de 10 vezes do projeto
+<a href="https://ibb.co/Vjjkcnh"><img src="https://i.ibb.co/LkksXjq/imagem-2021-10-24-143312.png" alt="imagem-2021-10-24-143312" border="0"></a>
+
 ## 👨‍💻  Participantes
 - Gustavo Santos Guimarães 081180013 - EC6
 
