@@ -5,6 +5,11 @@
 
 Desafio 4: Gramática para SVG ou X3D (HTML) - N1 2B
 
+## :hammer: Ambiente
+
+- IntelliJ IDEA 2021.2.2
+- JAVA SDK Corretto-1.8.0_302
+
 ## 💥 Informações 
 
 Este desafio consiste em criar um parser para ler um arquivo txt com uma gramática (definida pelo aluno) e como saída gerar um arquivo SVG com um gráfico correspondente.
