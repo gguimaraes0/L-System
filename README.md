@@ -1,5 +1,7 @@
 # L-System - Parser 📝
-Este projeto funciona baseado no alfabeto (A,B) sendo que a cada rodada  A->AB e B->A. A faz Circulo e B faz Quadrado
+- Este projeto funciona baseado no alfabeto (A,B) sendo que a cada rodada  A->AB e B->A. 
+- A faz Circulo e B faz Quadrado.
+- A linguagem definida é transformada em SVG
 
 Desafio 4: Gramática para SVG ou X3D (HTML) - N1 2B
 
